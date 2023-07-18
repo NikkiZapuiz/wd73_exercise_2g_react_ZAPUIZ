@@ -1,6 +1,6 @@
 function AppFooter() {
     return (
-        <div className="container-fluid" style={{ backgroundColor: "#B8ACB0" }}>
+        <div className="container-fluid" style={{ backgroundColor: "#E2E1E5" }}>
             <footer className="text-center text-white container-fluid shadow" style={{ backgroundColor: "#E2E1E5" }}>
                 <div className="container">
                     <section className="mt-5">

@@ -1,9 +1,15 @@
-
+import Navbar from "./components/Navbar.jsx"
+import MainContainer from "./components/MainContainer.jsx"
+import Footer from "./components/Footer.jsx"
 function App() {
     return (
-        <>
-            <h1>Hello World!</h1>
-        </>
+        <div  style={{ backgroundColor: "#E2E1E5"}}>
+        <Navbar />
+        <MainContainer />
+        <Footer />
+        
+        
+        </div>
     )
 }
 

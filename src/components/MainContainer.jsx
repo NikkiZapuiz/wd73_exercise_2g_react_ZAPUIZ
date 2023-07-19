@@ -1,4 +1,5 @@
 import Content from "./Content.jsx";
+import Facts from "./Facts.jsx";
 
 function MainContainer() {
     const catsInfo = [
@@ -64,6 +65,7 @@ function MainContainer() {
     return (
         <div className="d-flex flex-wrap justify-content-around">
         {catsInfoList}
+        <Facts />
         </div>
     )
 }

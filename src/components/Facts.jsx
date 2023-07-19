@@ -20,7 +20,7 @@ function Facts() {
             <div className="accordion-item">
                 <h2 className="accordion-header" idName="headingTwo">
                     <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    2. They have a total of 18 toes.
+                        <strong>2. They have a total of 18 toes.</strong>
                     </button>
                 </h2>
                 <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
@@ -34,7 +34,7 @@ function Facts() {
             <div className="accordion-item">
                 <h2 className="accordion-header" idName="headingThree">
                     <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    4. Cats sleep for around 13 to 16 hours a day (70% of their life).
+                        <strong>3. Cats sleep for around 13 to 16 hours a day (70% of their life).</strong>
                     </button>
                 </h2>
                 <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
